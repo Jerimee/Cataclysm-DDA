@@ -314,22 +314,6 @@
     "qualities": [ [ "DRILL", 2 ] ]
   },
   {
-    "id": "hose",
-    "type": "TOOL",
-    "name": { "str": "rubber hose" },
-    "description": "This is a flexible rubber hose.  It could be used for crafting, or siphoning fuel from a vehicle.",
-    "weight": "544 g",
-    "volume": "500 ml",
-    "price": 200,
-    "price_postapoc": 100,
-    "to_hit": 3,
-    "bashing": 4,
-    "material": [ "rubber" ],
-    "symbol": ",",
-    "color": "green",
-    "use_action": "SIPHON"
-  },
-  {
     "id": "jack",
     "type": "TOOL",
     "name": { "str": "bottle jack" },

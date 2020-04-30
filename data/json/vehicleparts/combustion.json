@@ -57,6 +57,7 @@
     "breaks_into": [
       { "item": "steel_lump", "count": [ 30, 40 ] },
       { "item": "steel_chunk", "count": [ 30, 40 ] },
+      { "item": "hose", "prob": 20 },
       { "item": "scrap", "count": [ 30, 40 ] }
     ],
     "requirements": {
@@ -78,6 +79,7 @@
     "breaks_into": [
       { "item": "steel_lump", "count": [ 30, 40 ] },
       { "item": "steel_chunk", "count": [ 30, 40 ] },
+      { "item": "hose", "prob": 20 },
       { "item": "scrap", "count": [ 30, 40 ] }
     ],
     "requirements": {
@@ -99,6 +101,7 @@
     "breaks_into": [
       { "item": "steel_lump", "count": [ 30, 40 ] },
       { "item": "steel_chunk", "count": [ 30, 40 ] },
+      { "item": "hose", "prob": 30 },
       { "item": "scrap", "count": [ 30, 40 ] }
     ],
     "requirements": {
@@ -193,6 +196,7 @@
     "breaks_into": [
       { "item": "steel_lump", "count": [ 20, 30 ] },
       { "item": "steel_chunk", "count": [ 20, 30 ] },
+      { "item": "hose", "prob": 20 },
       { "item": "scrap", "count": [ 20, 30 ] }
     ],
     "requirements": {
@@ -214,6 +218,7 @@
     "breaks_into": [
       { "item": "steel_lump", "count": [ 45, 58 ] },
       { "item": "steel_chunk", "count": [ 45, 58 ] },
+      { "item": "hose", "prob": 30 },
       { "item": "scrap", "count": [ 45, 58 ] }
     ],
     "requirements": {
@@ -235,6 +240,7 @@
     "breaks_into": [
       { "item": "steel_lump", "count": [ 45, 58 ] },
       { "item": "steel_chunk", "count": [ 45, 58 ] },
+      { "item": "hose", "prob": 30 },
       { "item": "scrap", "count": [ 45, 58 ] }
     ],
     "requirements": {
@@ -256,6 +262,7 @@
     "breaks_into": [
       { "item": "steel_lump", "count": [ 30, 40 ] },
       { "item": "steel_chunk", "count": [ 30, 40 ] },
+      { "item": "hose", "prob": 20 },
       { "item": "scrap", "count": [ 30, 40 ] }
     ],
     "requirements": {
@@ -277,6 +284,7 @@
     "breaks_into": [
       { "item": "steel_lump", "count": [ 40, 50 ] },
       { "item": "steel_chunk", "count": [ 40, 50 ] },
+      { "item": "hose", "prob": 30 },
       { "item": "scrap", "count": [ 40, 50 ] }
     ],
     "requirements": {
@@ -299,6 +307,7 @@
     "breaks_into": [
       { "item": "steel_lump", "count": [ 10, 20 ] },
       { "item": "steel_chunk", "count": [ 10, 20 ] },
+      { "item": "hose", "prob": 20 },
       { "item": "scrap", "count": [ 10, 20 ] }
     ],
     "requirements": {
