@@ -182,7 +182,7 @@
     "id": "rubbers",
     "type": "requirement",
     "//": "Materials used for rubber things.",
-    "components": [ [ [ "rubber_chunk", 2 ], [ "neoprene", 1 ] ] ]
+    "components": [ [ [ "chunk_rubber", 2 ], [ "neoprene", 1 ] ] ]
   },
   {
     "id": "solar_panel",
