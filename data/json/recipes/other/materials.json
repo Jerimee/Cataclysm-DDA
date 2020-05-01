@@ -28,6 +28,7 @@
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_MATERIALS",
     "skill_used": "tailor",
+    "difficulty": 3,
     "time": "1 m",
     "autolearn": true,
     "byproducts": [ [ "scrap_neoprene", 4 ] ],
@@ -41,11 +42,26 @@
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_MATERIALS",
     "skill_used": "fabrication",
+    "difficulty": 2,
     "time": "16 m",
-    "autolearn": true,
+    "autolearn": false,
     "byproducts": [ [ "chunk_rubber", 7 ] ],
     "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "sheet_rubber", 10 ] ] ]
+    "components": [ [ [ "sheet_rubber", 1 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "chunk_rubber",
+    "id_suffix": "from_sheet_qk",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "difficulty": 2,
+    "time": "5 m",
+    "autolearn": true,
+    "byproducts": [ [ "chunk_rubber", 3 ] ],
+    "qualities": [ { "id": "CUT", "level": 1 } ],
+    "components": [ [ [ "sheet_rubber", 1 ] ] ]
   },
   {
     "type": "recipe",
@@ -57,11 +73,11 @@
     "time": "16 m",
     "difficulty": 3,
     "autolearn": false,
-    "reversible": false,
     "decomp_learn" : 5,
+    "byproducts": [ [ "chunk_rubber", 1 ] ],
     "qualities": [ { "id": "VISE", "level": 1 }, { "id": "CUT", "level": 1 } ],
     "tools": [ [ [ "surface_heat", 80, "LIST" ] ] ],
-    "components": [ [ [ "sheet_rubber", 8 ] ] ]
+    "components": [ [ [ "sheet_rubber", 1 ] ] ]
   },
   {
     "type": "recipe",
@@ -71,10 +87,9 @@
     "skill_used": "fabrication",
     "difficulty": 4,
     "time": "25 m",
-    "autolearn": false,
-    "reversible": false,
+    "autolearn": true,
     "tools": [ [ [ "surface_heat", 100, "LIST" ] ], [ [ "sheet_metal", -1 ] ] ],
-    "components": [ [ [ "chunk_rubber", 10 ] ] ]
+    "components": [ [ [ "rubbers", 10, "LIST" ] ] ]
   },
   {
     "type": "recipe",

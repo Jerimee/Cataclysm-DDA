@@ -458,7 +458,7 @@
     "breaks_into": [
       { "item": "steel_lump", "prob": 50 },
       { "item": "steel_chunk", "count": [ 1, 2 ] },
-      { "item": "chunk_rubber", "count": [ 1, 5 ] }
+      { "item": "chunk_rubber", "count": [ 1, 5 ] },
       { "item": "scrap", "count": [ 1, 2 ] }
     ],
     "rolling_resistance": 0.45,
@@ -489,7 +489,7 @@
     "breaks_into": [
       { "item": "steel_lump", "prob": 50 },
       { "item": "steel_chunk", "count": [ 1, 2 ] },
-      { "item": "chunk_rubber", "count": [ 2, 7 ] }
+      { "item": "chunk_rubber", "count": [ 2, 7 ] },
       { "item": "scrap", "count": [ 1, 2 ] }
     ],
     "rolling_resistance": 1.95,
