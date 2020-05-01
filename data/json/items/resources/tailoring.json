@@ -70,15 +70,6 @@
     "material": "lycra"
   },
   {
-    "id": "scrap_neoprene",
-    "copy-from": "scrap_cotton",
-    "type": "AMMO",
-    "name": { "str_sp": "neoprene scraps" },
-    "description": "Oddly-shaped smallish bits of neoprene, waste material from tailoring projects.  Not useful for much and usually disposed of.",
-    "price": 0,
-    "material": "neoprene"
-  },
-  {
     "id": "scrap_nylon",
     "copy-from": "scrap_cotton",
     "type": "AMMO",
@@ -219,34 +210,6 @@
     "name": { "str_sp": "patchwork Lycra clothing parts" },
     "description": "A selection of various clothing parts, sewn together from Lycra patches in a patchwork fashion.  Suitable for making most clothing, though it's much less time-efficient than if using proper material sheets.",
     "weight": "60 g",
-    "volume": "60 ml",
-    "price": 1000,
-    "price_postapoc": 50,
-    "count": 1
-  },
-  {
-    "id": "sheet_neoprene",
-    "type": "AMMO",
-    "category": "spare_parts",
-    "name": { "str": "neoprene sheet" },
-    "description": "A sheet of neoprene, a synthetic rubber, suitable for making underwater gear.",
-    "weight": "6 g",
-    "volume": "300 ml",
-    "price": 5000,
-    "price_postapoc": 100,
-    "material": "neoprene",
-    "symbol": "=",
-    "color": "dark_gray",
-    "count": 100,
-    "ammo_type": "components"
-  },
-  {
-    "id": "sheet_neoprene_patchwork",
-    "copy-from": "sheet_neoprene",
-    "type": "AMMO",
-    "name": { "str_sp": "patchwork neoprene clothing parts" },
-    "description": "A selection of various clothing parts, sewn together from neoprene patches in a patchwork fashion, with waterproofed seams.  Suitable for making most clothing, though it's much less time-efficient than if using proper material sheets.",
-    "weight": "120 g",
     "volume": "60 ml",
     "price": 1000,
     "price_postapoc": 50,

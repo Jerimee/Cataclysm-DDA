@@ -175,8 +175,14 @@
   {
     "id": "plastics",
     "type": "requirement",
-    "//": "Materials used for plastic and rubber things.",
+    "//": "Materials used for plastic things.",
     "components": [ [ [ "plastic_chunk", 1 ] ] ]
+  },
+  {
+    "id": "rubbers",
+    "type": "requirement",
+    "//": "Materials used for rubber things.",
+    "components": [ [ [ "rubber_chunk", 2 ], [ "neoprene", 1 ] ] ]
   },
   {
     "id": "solar_panel",
