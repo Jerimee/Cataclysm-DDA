@@ -24,5 +24,21 @@
     "to_hit": -2,
     "bashing": 8,
     "cutting": 2
-  }
+  },
+  {
+    "type": "GENERIC",
+    "id": "hoop_aluminum",
+    "name": { "str": "aluminum hoop" },
+    "description": "A thin hoop of flat aluminum about 57cm in diameter.  Useful for making a bike wheel, though you could probably also hula hoop with it.",
+    "weight": "750 g",
+    "color": "light_gray",
+    "symbol": "O",
+    "material": [ "aluminum" ],
+    "//vol_note": "a filled in rectangular prism would have a vol of over 8L, hence the large volume of a light object - it isn't foldable",
+    "volume": "1250 ml",
+    "bashing": 10,
+    "category": "spare_parts",
+    "price": 3600,
+    "price_postapoc": 100
+  },
 ]
